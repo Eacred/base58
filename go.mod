@@ -1,4 +1,4 @@
-module github.com/Eacred/base58
+module github.com/Eacred/base58/v2
 
 go 1.11
 
