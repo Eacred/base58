@@ -8,7 +8,7 @@ package base58
 import (
 	"testing"
 
-	"github.com/Eacred/ecrd/crypto/blake256"
+	"github.com/Eacred/eacrd/crypto/blake256"
 )
 
 // BenchmarkBase58Encode benchmarks how long it takes to perform a base58 encode

@@ -9,7 +9,7 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/Eacred/ecrd/crypto/blake256"
+	"github.com/Eacred/eacrd/crypto/blake256"
 )
 
 // ErrChecksum indicates that the checksum of a check-encoded string does not verify against
